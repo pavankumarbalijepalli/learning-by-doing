@@ -8,7 +8,7 @@ A repository to showcase my Machine Learning and Deep Learning skills.
 - [ ] [Time Series Forecasting]()
 
 ## Computer Vision
-- [ ] [Image classification]()
+- [ ] [Image classification](https://github.com/pavankumarbalijepalli/image-classification)
 - [ ] [Image segmentation]()
 - [ ] [Object detection]()
 - [ ] [Depth estimation]()
