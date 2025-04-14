@@ -1,26 +1,25 @@
-# learning-by-doing
-A repository to showcase my Machine Learning and Deep Learning skills.
+This plan builds on multiple high‑quality sources (such as detailed Medium roadmaps citeturn0search4, Analytics Vidhya’s FAANG tips citeturn0search7, LinkedIn expert insights citeturn0search6, and community‑driven AI/Data Scientist roadmaps citeturn0search9) and integrates emerging topics like Transformers, Large Language Models (LLMs), and diffusion models into your intensive study regimen.
 
-## Machine Learning
-- [ ] [Regression]()
-- [ ] [Classification]()
-- [ ] [Table to Text]()
-- [ ] [Time Series Forecasting]()
+> **Note:** Two months is an aggressive timeframe. This plan is designed as a full‑time bootcamp where you must dedicate 6–8+ hours daily, remain flexible with hands‑on projects, and embrace continuous self‑evaluation through coding exercises and mock interviews.
 
-## Computer Vision
-- [ ] [Image classification](https://github.com/pavankumarbalijepalli/image-classification)
-- [ ] [Image segmentation]()
-- [ ] [Object detection]()
-- [ ] [Depth estimation]()
-- [ ] [Image to Image]()
-- [ ] [Unconditional Image Generation]()
-- [ ] [Video classification]()
-- [ ] [Zero-shot image classification]()
+| **Week** | **Focus Area** | **Key Learning Objectives & Topics** | **Actions, Resources & Projects** | **Milestones & Tips** |
+|----------|----------------|----------------------------------------|-----------------------------------|-----------------------|
+| **Week 1** | **Python Foundations & Data Science Overview** | - Refresh Python basics: variables, data types, loops, functions, modules.<br>- Overview of the data science lifecycle and MAANG roles (including product vision and communication). | - Complete an intensive Python bootcamp (Codecademy, Coursera, freeCodeCamp).<br>- Set up Jupyter Notebook/Google Colab.<br>- Read introductory articles on data science and generative AI trends. | **Milestone:** Solid command over Python basics and clear understanding of data science’s scope.<br>**Tip:** Document all code snippets in a GitHub repo to show progress. |
+| **Week 2** | **Python for Data Science & Core Libraries** | - Master NumPy, Pandas, Matplotlib, and Seaborn for data manipulation and visualization.<br>- Brief intro to SQL for data extraction. | - Follow Pandas/NumPy tutorials on Kaggle and YouTube.<br>- Create simple data analysis projects using public datasets.<br>- Start building your project portfolio repository. | **Milestone:** Complete a small project that cleans a dataset and visualizes key insights.<br>**Tip:** Consistently comment your code for clarity, especially for recruiters. |
+| **Week 3** | **Statistics, Probability, & Data Wrangling** | - Cover descriptive/inferential statistics (mean, variance, hypothesis testing, distributions).<br>- Master data cleaning and wrangling techniques in Pandas. | - Take a statistics course on Coursera/Khan Academy.<br>- Work on cleaning exercises using real-world datasets.<br>- Begin exploratory data analysis (EDA) projects. | **Milestone:** Successfully clean and analyze a dataset with documented steps.<br>**Tip:** Create visual reports (Jupyter Notebook + blog post) that explain your methodology. |
+| **Week 4** | **Exploratory Data Analysis (EDA) & Visualization** | - Deepen EDA skills: identify patterns, detect outliers, advanced visualizations.<br>- Learn interactive visualization using Plotly or basics of Tableau. | - Execute an end‑to‑end EDA on a moderate dataset from Kaggle.<br>- Prepare a comprehensive report and share it online (e.g., Medium or GitHub Pages). | **Milestone:** Publish an EDA project with clear visualizations and insights.<br>**Tip:** Focus on storytelling with data—this is attractive to MAANG recruiters. |
+| **Week 5** | **Machine Learning Foundations & Basic Model Building** | - Understand core ML algorithms (linear/logistic regression, decision trees, clustering).<br>- Learn model evaluation metrics (accuracy, precision, recall). | - Follow scikit‑learn tutorials and online courses (e.g., “Intro to Machine Learning” on Coursera).<br>- Build simple predictive models on standard datasets.<br>- Document experiments and performance metrics. | **Milestone:** Develop and evaluate at least two different ML models and compare their metrics.<br>**Tip:** Experiment with model tuning—even minor adjustments add to your understanding. |
+| **Week 6** | **Advanced Machine Learning & Introduction to Generative AI** | - Study advanced ML methods such as ensemble models (Random Forests, Gradient Boosting).<br>- **Generative AI Part I:** Learn the fundamentals of Generative AI: concepts behind LLMs, Transformers, attention mechanisms, and an overview of diffusion models.<br>- Understand the math and basics of neural networks. | - Complete courses/tutorials on ensemble methods and deep learning basics (e.g., Coursera, fast.ai).<br>- Watch introductory videos/tutorials on Transformers (e.g., “Attention Is All You Need”).<br>- Begin reading research papers or blog posts on generative models (e.g., GPT series, diffusion models). | **Milestone:** Implement an advanced ML model and develop a clear summary (blog or slides) on the basics of Transformer architecture and attention.<br>**Tip:** Use visual diagrams to map out transformer components—you’ll need this clarity for interviews. |
+| **Week 7** | **Generative AI Deep Dive & Domain Specialization** | - **Generative AI Part II:** Delve into advanced topics: fine‑tuning LLMs, prompt engineering, reinforcement learning from human feedback (RLHF), and practical applications (e.g., chatbots, text/image generation).<br>- Choose a domain specialization (NLP, Time Series, or Computer Vision) based on interests and align it with generative techniques where applicable. | - Enroll in focused Generative AI modules (e.g., courses on GPT fine‑tuning, prompt engineering tutorials, or specialized MOOCs on RLHF).<br>- Start a mini project: Experiment with pre‑trained models (e.g., build a simple chatbot using Hugging Face Transformers or generate images with a diffusion model).<br>- Participate in online forums (GitHub or LinkedIn groups) discussing generative AI. | **Milestone:** Develop a demonstrable mini‑project that leverages LLMs or diffusion models. Document the process and challenges along with performance outcomes.<br>**Tip:** Engage with communities (e.g., on Reddit or GitHub) for feedback on your generative AI experiments. |
+| **Week 8** | **Capstone Project & Comprehensive Interview Preparation** | - Integrate all learned topics: traditional data science (data collection, cleaning, EDA, ML) and advanced generative AI techniques.<br>- Build a capstone project that has an end‑to‑end pipeline: data ingestion, analysis, model building, and a Generative AI component (e.g., using a fine‑tuned LLM to provide insights or generate reports).<br>- Intensive interview prep: coding challenges (Python/SQL/DSA), system design (if applicable), and behavioral mock interviews. | - Choose a comprehensive real‑world dataset and design a project that not only predicts outcomes but also uses Generative AI to enhance the user experience (for instance, generating natural language summaries of insights).<br>- Simulate full interview cycles using mock interview platforms (Pramp, Interviewing.io) and industry peers.<br>- Revise and polish your resume, LinkedIn profile, and GitHub portfolio incorporating the new generative projects. | **Milestone:** Deliver a complete capstone project that seamlessly integrates traditional data science with generative AI components, and perform a full mock interview session with solid technical and behavioral feedback.<br>**Tip:** Prepare a concise “story” around your capstone project that highlights both your ML and generative AI skills—MAANG interviews value real‑world impact and innovative thinking. |
 
-## Natural Language Processing
-- [ ] [Text classification]()
-- [ ] [Token classification]()
-- [ ] [Question answering]()
-- [ ] [Zero shot classification]()
-- [ ] [Text2Text Generation]()
-- [ ] [Summarization]()
+---
+
+### Final Thoughts
+
+- **Daily Dedication:** This intensive roadmap expects consistent daily effort (6–8+ hours) across coding, theory, practical projects, and interview simulation.
+- **Generative AI Focus:** As AI becomes a cornerstone of modern data science, understanding and working with LLMs, transformers, and diffusion models will set you apart in MAANG interviews.
+- **Communication & Networking:** Beyond technical ability, polish your presentation and storytelling skills. Participate actively in online communities (GitHub, LinkedIn, relevant forums) to seek feedback and secure referrals.
+- **Documentation:** Keep a detailed record of projects, code, and learnings on platforms like GitHub and Medium; these are essential assets during interviews and for your professional portfolio.
+
+Following this enhanced roadmap should equip you with the comprehensive technical proficiency, hands‑on project experience, and interview acumen—including advanced generative AI skills—needed to stand out and secure a MAANG data scientist role. Happy learning, and best of luck on your journey to becoming an exceptional data scientist!
